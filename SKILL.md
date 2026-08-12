@@ -123,7 +123,7 @@ Select applications relevant to the brand. Possible outputs include:
 - event materials
 
 Do not use mockups as a substitute for actual design thinking.
-
+Before generating applications, define and lock the Brand DNA variables described in `references/07-applications.md`. Do not allow individual application boards to drift into unrelated visual styles.
 ### 7. Image-generation direction
 
 When generating or briefing images, read `references/08-image-generation.md`.
@@ -147,7 +147,7 @@ Review:
 - commercial usability
 
 Fix obvious inconsistencies before final delivery.
-
+Before final delivery, perform the Six-Board Consistency Test. Compare all proposal boards as one system and revise any page that appears to belong to another brand.
 ## Default VI proposal
 
 When the user asks for a six-page VI proposal without another structure, use:
