@@ -86,3 +86,42 @@ Guidance:
 - 90–100: ready for final presentation
 - 80–89: refine weak areas
 - below 80: revisit the system, not just surface styling
+## Six-Board Consistency Test
+
+Before final delivery, compare all VI boards side by side.
+
+Check whether they clearly belong to the same brand.
+
+Review:
+
+- primary color
+- secondary colors
+- typography
+- title placement
+- grid
+- margins
+- logo scale
+- auxiliary graphics
+- photography
+- lighting
+- material
+- visual density
+- corner-radius system
+- icon style
+
+Ask:
+
+> If the logo were removed from these boards, would they still look like the same brand?
+
+If the answer is no, revise the inconsistent board.
+
+## Anti-Template Check
+
+Before final output, check whether the project looks like:
+
+- generic AI cards
+- generic presentation templates
+- unrelated mockups
+- random decorative geometry
+
+If so, simplify the page and reinforce the brand-specific visual language.
