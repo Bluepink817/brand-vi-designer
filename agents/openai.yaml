@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brand VI Designer"
+  short_description: "Build coherent brand VI systems from logos and brand briefs."
+  default_prompt: "Use Brand VI Designer to analyze the brand, establish a visual direction, build the VI system, and review consistency."
+
+policy:
+  allow_implicit_invocation: true
