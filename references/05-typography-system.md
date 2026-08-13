@@ -42,3 +42,32 @@ Avoid:
 - mixing unrelated display styles
 
 Typography should reinforce the brand personality and remain usable across print and digital media.
+## Typography Case Study Presentation
+
+Typography should be shown in two ways.
+
+### Technical System
+
+Show:
+
+- Chinese font
+- Latin font
+- H1
+- H2
+- H3
+- Body
+- Caption
+
+### Expressive Typography
+
+Show how typography behaves in real brand communication.
+
+Examples:
+
+- campaign headline
+- packaging title
+- social media title
+- poster headline
+- slogan
+
+Do not present typography only as a specification table.
