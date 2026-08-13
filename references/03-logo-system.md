@@ -196,3 +196,4 @@ A professional Logo Construction board should preferably include:
 - 15–25% misuse examples or technical notes
 
 The technical diagram should be visually more important than descriptive text.
+When a Logo Construction board is requested, require a visible construction diagram with real proportion, clear-space, or measurement logic. A text-only explanation is not sufficient.
