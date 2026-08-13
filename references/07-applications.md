@@ -224,3 +224,32 @@ Possible categories:
 Do not force every brand to use every category.
 
 Choose applications that support the real customer journey.
+## Application Weight in Complete Case Study
+
+In Complete Brand Case Study mode, brand applications should normally occupy approximately 35–50% of the visual presentation.
+
+A strong case study must demonstrate the identity in real contexts.
+
+Do not stop after one stationery mockup and one advertisement.
+
+Depending on the brand, include several relevant application families.
+
+Possible sequence:
+
+Packaging
+↓
+Packaging detail
+↓
+Shopping / delivery
+↓
+Poster
+↓
+Social media
+↓
+Retail or environment
+↓
+Lifestyle application
+↓
+Campaign visual
+
+Prioritize large, visually convincing applications over small grids of many mockups.
