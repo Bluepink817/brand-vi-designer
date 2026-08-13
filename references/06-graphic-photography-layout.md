@@ -179,3 +179,142 @@ Prefer at least one analytical structure such as:
 The purpose is analysis, not decoration.
 
 Use competitors only when the information is supplied or verified.
+# Brand Case Study Presentation System
+
+A complete brand case study must not look like a presentation template.
+
+The visual rhythm should alternate between:
+
+- strategy
+- identity detail
+- full-bleed visual
+- technical specification
+- application
+- atmosphere
+- summary
+
+Avoid repeating the same layout continuously.
+
+## Case Study Rhythm
+
+Recommended rhythm:
+
+Strategy
+↓
+Large Visual
+↓
+Technical Detail
+↓
+Large Visual
+↓
+System Explanation
+↓
+Application
+↓
+Atmospheric Image
+↓
+Application
+↓
+Final Overview
+
+## Layout Diversity
+
+Across the complete case study, use multiple composition types:
+
+### Type A — Hero Section
+
+Use for:
+
+- project cover
+- brand statement
+- campaign key visual
+
+Characteristics:
+
+- large image or large logo
+- minimal text
+- strong atmosphere
+- generous negative space
+
+### Type B — Strategy Section
+
+Use for:
+
+- brand information
+- consumer analysis
+- positioning
+- visual keywords
+
+Characteristics:
+
+- concise text
+- analytical diagram
+- matrix / axis / relationship map
+- restrained imagery
+
+Avoid excessive cards.
+
+### Type C — Technical Identity Section
+
+Use for:
+
+- logo construction
+- clear space
+- minimum size
+- typography
+- color
+
+Characteristics:
+
+- grid
+- measurement
+- clean background
+- precise hierarchy
+
+### Type D — Visual System Section
+
+Use for:
+
+- auxiliary graphics
+- pattern
+- illustration
+- iconography
+- photography
+
+Characteristics:
+
+- large visual examples
+- repeated system demonstration
+- less explanatory text
+
+### Type E — Application Section
+
+Use for:
+
+- packaging
+- stationery
+- advertising
+- social media
+- store
+- uniform
+
+Characteristics:
+
+- large realistic application visuals
+- minimal annotations
+- clear brand consistency
+
+## Visual Pacing Rule
+
+Never place more than two information-heavy sections consecutively.
+
+After one or two analytical sections, introduce a large visual section.
+
+The viewer should experience:
+
+information
+→ visual breathing space
+→ detail
+→ visual impact
+
+rather than continuous dense presentation slides.
