@@ -165,3 +165,4 @@ Keep consistent:
 - typography hierarchy
 
 Do not create several unrelated advertisements on one board.
+Treat supplied logos and important typography as precision assets. Prefer applying real brand assets over allowing an image generator to recreate them.
