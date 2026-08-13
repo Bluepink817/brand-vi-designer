@@ -84,3 +84,56 @@ Example:
 > Keep the category’s freshness cues, but replace generic leaf graphics with a distinctive geometric system derived from the logo.
 
 Finish with 3–6 visual keywords.
+## Case Study Strategy Presentation
+
+Brand strategy must remain visible in the final case study.
+
+Do not remove strategy in order to make the presentation more visual.
+
+The final case study must include:
+
+### Brand Information Analysis
+
+Show:
+
+- brand category
+- existing assets
+- brand character
+- business context
+- key opportunity
+
+### Consumer & Positioning
+
+Show:
+
+- target consumer
+- usage scenario
+- emotional need
+- price / market positioning
+- brand differentiation
+
+Prefer:
+
+- positioning map
+- consumer scenario diagram
+- perception axis
+
+instead of multiple equal cards.
+
+### Visual Keywords
+
+Extract 3–6 keywords.
+
+Show relationships between keywords.
+
+For example:
+
+Core:
+Refined
+
+Supporting:
+Friendly
+Fresh
+Companionable
+
+The keywords should guide every visual decision that follows.
