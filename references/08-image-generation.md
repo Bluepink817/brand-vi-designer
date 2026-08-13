@@ -121,3 +121,78 @@ rather than a production-ready brand application.
 
 Do not present approximate AI-generated branding as final production artwork.
 Classify final applications as Concept, Presentation Ready, or Production Ready using `references/09-quality-control.md`.
+# Brand Key Visual System
+
+In Complete Brand Case Study mode, establish a recognizable Key Visual system before creating major application sections.
+
+The Key Visual must be derived from the current brand strategy and visual identity.
+
+Define:
+
+- subject
+- environment
+- product or service context
+- photography or illustration style
+- lighting
+- camera direction
+- composition
+- brand colors
+- auxiliary graphics
+- material and texture
+- human presence when relevant
+- emotional tone
+
+## Brand Relevance Rule
+
+Every Key Visual decision must support the current brand's:
+
+- positioning
+- target audience
+- visual keywords
+- product or service
+- brand personality
+
+Do not reuse the visual language of a previous brand simply because it produced an attractive result.
+
+## Visual Consistency
+
+The Key Visual should establish a recognizable visual atmosphere that can extend across:
+
+- advertising
+- packaging
+- social media
+- retail
+- digital media
+- lifestyle imagery
+
+Applications should inherit the same core visual language.
+
+Do not generate every application with a different:
+
+- photography style
+- lighting style
+- color mood
+- graphic language
+- material direction
+
+unless the brand system explicitly requires controlled variation.
+
+## Key Visual Sequence
+
+Depending on the brand, consider a sequence such as:
+
+Brand atmosphere
+↓
+Product / service focus
+↓
+Lifestyle or usage scenario
+↓
+Detail
+↓
+Campaign visual
+↓
+Application adaptation
+
+The exact sequence should adapt to the current project.
+
+Do not force product photography, lifestyle photography, or human figures when they are irrelevant to the brand.
