@@ -231,22 +231,26 @@ Examples:
 
 The structure should follow visual storytelling rather than page counting.
 
-### Mode B — Six-Board VI Proposal
+### Mode B — Presentation Deck
 
-Use this mode only when:
+Use this mode ONLY when the user explicitly requests:
 
-- the user explicitly asks for six boards
-- classroom presentation requires six boards
-- a concise VI proposal is requested
+- PowerPoint
+- PPT
+- slides
+- presentation deck
+- classroom presentation
+- six-board proposal
 
-Structure:
+Presentation Deck mode may use:
 
-1. Industry Background
-2. Market Analysis
-3. Logo Construction
-4. Color System
-5. Office Applications
-6. Advertising Applications
+- 16:9 pages
+- consistent headers
+- repeated grid
+- concise text
+- presentation-oriented information hierarchy
+
+Do not apply this slide-deck structure to Complete Brand Case Study mode.
 ## Default VI proposal
 
 When the user asks for a six-page VI proposal without another structure, use:
