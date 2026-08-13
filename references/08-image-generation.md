@@ -120,3 +120,4 @@ Concept Render
 rather than a production-ready brand application.
 
 Do not present approximate AI-generated branding as final production artwork.
+Classify final applications as Concept, Presentation Ready, or Production Ready using `references/09-quality-control.md`.
