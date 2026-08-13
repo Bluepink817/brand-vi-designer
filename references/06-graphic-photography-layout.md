@@ -76,7 +76,60 @@ A typical reading order:
 
 Each board should have one dominant focal point.
 ## Proposal Board Anti-Template Rules
+## Editorial Proposal Layout Priority
 
+For strategy and analysis boards, editorial composition takes priority over card-based UI composition.
+
+Avoid using equal-sized cards as the primary structure for:
+
+- Industry Background
+- Market Analysis
+- Brand Positioning
+- Visual Direction
+
+At least one of the first four proposal boards must use a non-card editorial layout.
+
+Prefer:
+
+- one dominant hero visual
+- one strong analytical diagram
+- asymmetrical composition
+- large typographic hierarchy
+- directional relationships
+- visual axes
+- controlled negative space
+- contrast in scale
+
+### Card Limitation
+
+Cards may only be used for supporting information.
+
+Do not use more than 3 equal-sized cards in one main analytical area unless the information truly requires equal comparison.
+
+If four or more concepts are shown, prefer:
+
+- spectrum
+- matrix
+- radial map
+- axis
+- hierarchy
+- cluster
+- relationship diagram
+
+instead of four identical boxes.
+
+### Visual Relationship Rule
+
+When presenting brand traits such as:
+
+- friendly
+- refined
+- companionable
+- fresh
+
+show their relationship to the brand rather than displaying them as isolated equal cards.
+
+The viewer should understand which traits are primary, secondary, or complementary.
 For Industry Background and Market Analysis boards:
 
 - Do not build the entire page from equal-sized rounded cards.
