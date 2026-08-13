@@ -148,6 +148,65 @@ Review:
 
 Fix obvious inconsistencies before final delivery.
 Before final delivery, perform the Six-Board Consistency Test. Compare all proposal boards as one system and revise any page that appears to belong to another brand.
+## Output Modes
+
+Brand VI Designer supports two presentation modes.
+
+### Mode A — Complete Brand Case Study
+
+Use this mode by default when the user requests:
+
+- complete VI system
+- complete brand identity
+- portfolio presentation
+- brand case study
+- full brand proposal
+- ZCOOL / Behance style presentation
+- complete visual identity project
+
+This mode should present the project as a continuous brand story rather than six isolated presentation boards.
+
+Required structure:
+
+1. Brand Cover
+2. Brand Information Analysis
+3. Consumer & Positioning
+4. Visual Keywords & Creative Direction
+5. Logo Concept Analysis
+6. Logo Construction
+7. Logo Variations & Usage
+8. Color System
+9. Typography System
+10. Auxiliary Graphic System
+11. Photography / Illustration / Key Visual System
+12. Brand Application System
+13. Packaging / Retail Applications
+14. Advertising & Social Media
+15. Environmental / Lifestyle Applications
+16. Final Brand System Overview
+
+The project must visually evolve from strategy to identity to application.
+
+Do not make every section use the same layout.
+
+The final result should feel like a professional ZCOOL / Behance brand case study.
+
+### Mode B — Six-Board VI Proposal
+
+Use this mode only when:
+
+- the user explicitly asks for six boards
+- classroom presentation requires six boards
+- a concise VI proposal is requested
+
+Structure:
+
+1. Industry Background
+2. Market Analysis
+3. Logo Construction
+4. Color System
+5. Office Applications
+6. Advertising Applications
 ## Default VI proposal
 
 When the user asks for a six-page VI proposal without another structure, use:
