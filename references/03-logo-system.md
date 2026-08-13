@@ -197,3 +197,58 @@ A professional Logo Construction board should preferably include:
 
 The technical diagram should be visually more important than descriptive text.
 When a Logo Construction board is requested, require a visible construction diagram with real proportion, clear-space, or measurement logic. A text-only explanation is not sufficient.
+## Complete Case Study Logo Sequence
+
+For Complete Brand Case Study mode, the Logo System should normally be presented as several visual sections rather than one crowded board.
+
+Recommended sequence:
+
+### Logo Reveal
+
+Show the primary logo prominently.
+
+Minimal explanation.
+
+### Logo Concept
+
+Explain:
+
+- concept origin
+- visual metaphor
+- relationship to brand positioning
+- symbolic meaning
+
+### Logo Construction
+
+Show:
+
+- X unit
+- alignment
+- proportions
+- measurement logic
+- safe area
+
+### Logo Variations
+
+Show when relevant:
+
+- primary logo
+- horizontal version
+- vertical version
+- icon / symbol
+- wordmark
+- monochrome
+- reversed version
+
+### Logo Usage
+
+Show:
+
+- correct background usage
+- minimum size
+- clear space
+- incorrect usage
+
+Do not squeeze all logo information onto one board.
+
+Allow the logo system to occupy multiple sections when necessary.
