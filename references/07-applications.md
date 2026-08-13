@@ -166,3 +166,61 @@ Keep consistent:
 
 Do not create several unrelated advertisements on one board.
 Treat supplied logos and important typography as precision assets. Prefer applying real brand assets over allowing an image generator to recreate them.
+# Complete Application Ecosystem
+
+In Complete Brand Case Study mode, applications should demonstrate a complete ecosystem rather than one or two isolated mockups.
+
+Select applications according to the brand.
+
+Possible categories:
+
+### Basic Identity
+
+- business card
+- stationery
+- notebook
+- badge
+
+### Packaging
+
+- bag
+- box
+- label
+- wrapping paper
+- sticker
+- tag
+
+### Retail
+
+- storefront
+- signage
+- shelf
+- shopping bag
+- display
+
+### Advertising
+
+- poster
+- outdoor advertising
+- digital screen
+- campaign visual
+
+### Social Media
+
+- Xiaohongshu
+- Instagram
+- WeChat
+- campaign post
+- story
+
+### Lifestyle
+
+- uniform
+- merchandise
+- gift
+- environment
+- event
+
+Do not force every brand to use every category.
+
+Choose applications that support the real customer journey.
