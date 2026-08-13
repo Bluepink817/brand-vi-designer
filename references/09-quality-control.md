@@ -125,3 +125,49 @@ Before final output, check whether the project looks like:
 - random decorative geometry
 
 If so, simplify the page and reinforce the brand-specific visual language.
+## Production Readiness Check
+
+Before calling a VI project final, classify each application as one of:
+
+### Concept
+Used to communicate visual direction.
+
+May contain:
+- generated environments
+- approximate materials
+- illustrative mockups
+
+### Presentation Ready
+Suitable for portfolio or proposal presentation.
+
+Requires:
+- consistent logo
+- controlled typography
+- realistic application
+- coherent brand system
+
+### Production Ready
+Suitable for real manufacturing, printing, or implementation.
+
+Requires:
+- verified logo artwork
+- accurate dimensions
+- correct colors
+- editable typography
+- production specifications
+- no AI-distorted text
+- no approximate technical content
+
+Do not label concept mockups as production-ready.
+
+## Final Review Questions
+
+Before delivery, ask:
+
+1. Does every page look like the same brand without relying only on the logo?
+2. Are strategy pages editorial rather than template-like?
+3. Is the logo construction visually measurable?
+4. Are all logos accurate?
+5. Are important texts editable and correct?
+6. Are mockups concept visuals or production-ready assets?
+7. Can another designer reproduce this system from the guidelines?
