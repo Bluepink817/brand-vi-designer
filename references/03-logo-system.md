@@ -252,3 +252,32 @@ Show:
 Do not squeeze all logo information onto one board.
 
 Allow the logo system to occupy multiple sections when necessary.
+## Portfolio Logo Storytelling
+
+In Complete Brand Case Study mode, the logo system should create visual rhythm.
+
+Recommended sequence:
+
+### Section 1 — Logo Reveal
+
+Use the primary logo at large scale.
+
+Minimal or no explanation.
+
+### Section 2 — Concept
+
+Explain the visual idea and brand relationship.
+
+### Section 3 — Construction
+
+Show real construction logic.
+
+### Section 4 — Variations
+
+Show logo versions together as a visual family.
+
+### Section 5 — Large Logo Application
+
+Return to a visually strong logo composition before moving into color and typography.
+
+Do not make all logo sections technical specification boards.
