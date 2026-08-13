@@ -369,3 +369,34 @@ The viewer should understand:
 2. Why it belongs to this brand.
 3. How it becomes a repeatable system.
 4. How it is used consistently across applications.
+## Portfolio Visual Density Rules
+
+In Complete Brand Case Study mode, the project must not be dominated by text-and-card layouts.
+
+Target visual balance across the full case study:
+
+- 55–70% large visual content
+- 15–25% technical identity content
+- 10–20% strategy and explanatory content
+
+At least half of the complete case study should be visually driven.
+
+## Large Visual Requirement
+
+For every 1–2 information-heavy sections, introduce at least one large visual section.
+
+Large visual sections may include:
+
+- full-bleed brand photography
+- large logo compositions
+- packaging hero shots
+- key visuals
+- environmental branding
+- material details
+- campaign visuals
+- product/lifestyle photography
+- auxiliary graphic compositions
+
+A large visual section should normally use 60–100% of the available visual area.
+
+Do not add large blocks of explanatory text to these sections.
