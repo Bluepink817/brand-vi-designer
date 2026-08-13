@@ -156,40 +156,80 @@ Brand VI Designer supports two presentation modes.
 
 Use this mode by default when the user requests:
 
-- complete VI system
 - complete brand identity
+- complete VI system
 - portfolio presentation
 - brand case study
-- full brand proposal
-- ZCOOL / Behance style presentation
-- complete visual identity project
+- ZCOOL-style presentation
+- Behance-style presentation
+- complete brand visual project
 
-This mode should present the project as a continuous brand story rather than six isolated presentation boards.
+IMPORTANT:
 
-Required structure:
+Complete Brand Case Study mode is NOT a PowerPoint-style slide deck.
+
+Do not structure the result as a sequence of repetitive 16:9 presentation slides unless the user explicitly requests PPT or slides.
+
+The default goal is a continuous visual brand case study similar to a professional design portfolio.
+
+The presentation should feel like one continuous visual story.
+
+## Preferred Output
+
+Prefer one of:
+
+1. A sequence of independent high-resolution visual case-study panels.
+2. A continuous long-form vertical case-study layout.
+3. A portfolio-style PDF assembled from visually varied sections.
+
+Do not default to PowerPoint.
+
+## Required Content
+
+Preserve the strategic and systematic content:
 
 1. Brand Cover
 2. Brand Information Analysis
 3. Consumer & Positioning
-4. Visual Keywords & Creative Direction
-5. Logo Concept Analysis
-6. Logo Construction
-7. Logo Variations & Usage
-8. Color System
-9. Typography System
-10. Auxiliary Graphic System
-11. Photography / Illustration / Key Visual System
-12. Brand Application System
-13. Packaging / Retail Applications
-14. Advertising & Social Media
-15. Environmental / Lifestyle Applications
-16. Final Brand System Overview
+4. Visual Keywords
+5. Visual Direction
+6. Logo Concept Analysis
+7. Logo Construction
+8. Logo Variations & Usage
+9. Color System
+10. Typography System
+11. Auxiliary Graphic System
+12. Photography / Illustration Direction
+13. Key Visual System
+14. Packaging Applications
+15. Office / Basic Applications
+16. Advertising
+17. Social Media
+18. Retail / Environment when relevant
+19. Brand System Overview
+20. Quality Review
 
-The project must visually evolve from strategy to identity to application.
+These are content modules, NOT mandatory individual slides.
 
-Do not make every section use the same layout.
+Several modules may share one visual section.
 
-The final result should feel like a professional ZCOOL / Behance brand case study.
+One module may also use multiple visual sections when the content deserves more space.
+
+## Continuous Case Study Rule
+
+Do not treat every content module as one slide.
+
+A complete case study must use varied visual section lengths and densities.
+
+Examples:
+
+- Brand analysis may use one compact section.
+- Logo development may use three or four sections.
+- Color may use one technical section followed by one atmospheric visual.
+- Auxiliary graphics may use several visual demonstrations.
+- Applications may use multiple large image sections.
+
+The structure should follow visual storytelling rather than page counting.
 
 ### Mode B — Six-Board VI Proposal
 
