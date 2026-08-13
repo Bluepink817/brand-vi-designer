@@ -50,3 +50,30 @@ Avoid:
 - different color meanings across applications
 
 Check accessibility when the identity will be used in digital interfaces.
+## Color Story Presentation
+
+In Complete Brand Case Study mode, color should be presented as both:
+
+1. technical specification
+2. brand atmosphere
+
+Do not only display isolated color swatches.
+
+Show the relationship between:
+
+- primary color
+- secondary color
+- accent color
+- photography
+- material
+- application
+
+Recommended presentation:
+
+Brand photography
++
+large brand color blocks
++
+small technical specification
+
+The viewer should understand how the brand color feels in a real environment.
