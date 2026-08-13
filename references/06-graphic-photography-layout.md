@@ -318,3 +318,54 @@ information
 → visual impact
 
 rather than continuous dense presentation slides.
+## Visual Asset Showcase
+
+Auxiliary graphics should be presented as a reusable visual asset library.
+
+The visual assets must be derived from the current brand rather than from a fixed decorative style.
+
+Possible sources include:
+
+- logo geometry
+- distinctive logo details
+- product forms
+- brand story
+- cultural context
+- industry characteristics
+- packaging structure
+- typography features
+- photography details
+- materials and textures
+
+Show the development process when appropriate:
+
+source element
+↓
+visual extraction
+↓
+simplification
+↓
+system development
+↓
+application
+
+Possible outputs include:
+
+- auxiliary graphics
+- patterns
+- icons
+- illustrations
+- line art
+- frames
+- symbols
+- textures
+- modular graphic elements
+
+Do not introduce visual elements that are unrelated to the current brand.
+
+The viewer should understand:
+
+1. Where the visual asset comes from.
+2. Why it belongs to this brand.
+3. How it becomes a repeatable system.
+4. How it is used consistently across applications.
